@@ -42,7 +42,9 @@ A **multi-role marketplace platform** built with Laravel, featuring complete e-c
 - **Database:** MySQL
 - **Build Tool:** Vite
 
-## Screenshots (concept)
+## Screenshots
+
+![Landing Page](screenshots/landing-page.png)
 
 | Area | Tampilan |
 |------|----------|
